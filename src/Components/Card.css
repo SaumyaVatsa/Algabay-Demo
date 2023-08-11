@@ -1,0 +1,18 @@
+.container{
+    box-shadow: 5px 1px 20px #918d8d;
+    width: max-content;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+h2{
+    color: grey;
+    text-align: center;
+    font-size: 25px;
+}
+
+.container .option{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
